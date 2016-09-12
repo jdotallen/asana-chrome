@@ -1,9 +1,13 @@
 {
-  "name": "Hello World!",
+  "name": "asana-chrome",
   "manifest_version": 2,
   "version": "1.0",
-  "description": "My first Chrome extension.",
+  "description": "ALV Asana-Chrome Integration",
   "browser_action": {
-    "default_icon": "promo_07.jpg"
-  }
+    "default_icon": "resources/icon.png"
+  },
+  
+  "icons": { "16": "resources/asana-logo16.png",
+             "48": "resources/asana-logo48.png",
+             "128": "resources/asana-logo128.png" }
 }
