@@ -4,14 +4,14 @@
   "version": "1.0",
   "description": "ALV Asana-Chrome Integration",
   "browser_action": {
-    "default_icon": "resources/icon.png",
+    "default_icon": "resources/images/icon.png",
     "default_title": "ALV Asana",
     "default_popup": "pages/popup.html"
   },
   
-  "icons": { "16": "resources/asana-logo16.png",
-             "48": "resources/asana-logo48.png",
-             "128": "resources/asana-logo128.png" },
+  "icons": { "16": "resources/images/asana-logo16.png",
+             "48": "resources/images/asana-logo48.png",
+             "128": "resources/images/asana-logo128.png" },
              
   "omnibox": { "keyword" : "ALV" },
   
